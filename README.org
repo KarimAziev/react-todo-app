@@ -21,7 +21,7 @@ Setup and run [[https://github.com/KarimAziev/nodejs-todo-app][node-todo-app]] l
 ** Start client
 In other terminal run this client application.
 #+begin_src shell
-npm install && npm dev
+npm install && npm run dev
 #+end_src
 
 ** Start developing
